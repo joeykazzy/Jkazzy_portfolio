@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Joey_Kazmierski Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/your_url
@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: "Joey_Kazmierski 2023©"
     right: 
       - icon: linkedin
         href: Your_LinkedIn_URL
@@ -19,7 +19,7 @@ website:
     background: primary
     search: true   
     right:
-      - text: "Home"
+      - text: "Resume"
         file: index.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd

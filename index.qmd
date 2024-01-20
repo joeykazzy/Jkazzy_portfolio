@@ -1,11 +1,54 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+layout: resume
+title: Joey Kazmierski's Resume
 ---
 
-# Title 1 Header
-## Title 2 Header
+<div id="webaddress">
+<a href="datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+</div>
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+<!-- https://www.monique.tech/the-art-of-markdown -->
+
+
+## Education
+
+`2019-2023`
+__Billings West High School__, Billings, Montana
+
+- Honors/AP Student
+
+- Student Athlete: Tennis and Lacrosse
+
+- 3.8 Cumulative GPA
+
+- All State Musician 4x for Trumpet
+
+`2023`
+__Brigham Young University__, Rexburg, ID
+
+- 4.0 GPA
+
+- Expected graduation 2027
+
+- Major in Mathematics with an Emphasis in Statistics
+
+## Service and Work History
+
+`2021-2022`
+__Game master__, Billings Escape Room
+
+
+`2022`
+__Landscaper__, Wedgewood Homes
+
+`2023`
+__Warehouse Worker__, South Africa
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
 
