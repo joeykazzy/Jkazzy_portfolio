@@ -20,7 +20,7 @@ website:
     search: true   
     right:
       - text: "Resume"
-        file: index.qmd
+        file: resume.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
